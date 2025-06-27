@@ -1,3 +1,6 @@
 .env
-/AuxPlanilhas/
-/planilhas/
+/AuxPlanilhas/*
+!/AuxPlanilhas/.gitkeep
+
+/planilhas/*
+!/planilhas/.gitkeep
